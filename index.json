@@ -1,21 +1,33 @@
 [
     {
         "id": 1,
-        "fullname": "John Doe",
+        "fullname": "john doe",
         "tel": "+123456789",
         "skype": "john.doe",
         "expiriense": "5 years",
         "salary": "$50,000",
-        "email": "john.doe@example.com"
+        "email": "john.doe@example.com",
+        "speciality": "developer",
+        "about": "I specialize in frontend development using JavaScript and React.",
+        "telegram": "@johndoe",
+        "instagram": "@johndoe",
+        "twitter": "@johndoe",
+        "github": "johndoe"
     },
     {
         "id": 2,
-        "fullname": "Jane Smith",
+        "fullname": "jane smith",
         "tel": "+987654321",
         "skype": "jane.smith",
         "expiriense": "3 years",
         "salary": "$40,000",
-        "email": "jane.smith@example.com"
+        "email": "jane.smith@example.com",
+        "speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@janesmith",
+        "instagram": "@janesmith",
+        "twitter": "@janesmith",
+        "github": "janesmith"
     },
     {
         "id": 3,
@@ -24,7 +36,13 @@
         "skype": "michael.johnson",
         "expiriense": "7 years",
         "salary": "$60,000",
-        "email": "michael.johnson@example.com"
+        "email": "michael.johnson@example.com",
+        "speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 4,
@@ -33,7 +51,13 @@
         "skype": "emily.brown",
         "expiriense": "2 years",
         "salary": "$35,000",
-        "email": "emily.brown@example.com"
+        "email": "emily.brown@example.com",
+        "speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 5,
@@ -42,7 +66,13 @@
         "skype": "david.wilson",
         "expiriense": "4 years",
         "salary": "$45,000",
-        "email": "david.wilson@example.com"
+        "email": "david.wilson@example.com",
+        "speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 6,
@@ -51,7 +81,13 @@
         "skype": "sarah.jones",
         "expiriense": "6 years",
         "salary": "$55,000",
-        "email": "sarah.jones@example.com"
+        "email": "sarah.jones@example.com",
+        "speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 7,
@@ -60,7 +96,12 @@
         "skype": "daniel.taylor",
         "expiriense": "1 year",
         "salary": "$30,000",
-        "email": "daniel.taylor@example.com"
+        "email": "daniel.taylor@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 8,
@@ -69,7 +110,12 @@
         "skype": "olivia.davis",
         "expiriense": "3 years",
         "salary": "$40,000",
-        "email": "olivia.davis@example.com"
+        "email": "olivia.davis@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 9,
@@ -78,7 +124,12 @@
         "skype": "ethan.anderson",
         "expiriense": "2 years",
         "salary": "$35,000",
-        "email": "ethan.anderson@example.com"
+        "email": "ethan.anderson@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 10,
@@ -87,7 +138,12 @@
         "skype": "ava.moore",
         "expiriense": "4 years",
         "salary": "$45,000",
-        "email": "ava.moore@example.com"
+        "email": "ava.moore@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 11,
@@ -96,7 +152,12 @@
         "skype": "william.martinez",
         "expiriense": "5 years",
         "salary": "$50,000",
-        "email": "william.martinez@example.com"
+        "email": "william.martinez@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 12,
@@ -105,7 +166,12 @@
         "skype": "sophia.johnson",
         "expiriense": "3 years",
         "salary": "$40,000",
-        "email": "sophia.johnson@example.com"
+        "email": "sophia.johnson@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 13,
@@ -114,7 +180,12 @@
         "skype": "liam.wilson",
         "expiriense": "6 years",
         "salary": "$55,000",
-        "email": "liam.wilson@example.com"
+        "email": "liam.wilson@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 14,
@@ -123,7 +194,12 @@
         "skype": "isabella.brown",
         "expiriense": "2 years",
         "salary": "$35,000",
-        "email": "isabella.brown@example.com"
+        "email": "isabella.brown@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     },
     {
         "id": 15,
@@ -132,6 +208,11 @@
         "skype": "mason.taylor",
         "expiriense": "4 years",
         "salary": "$45,000",
-        "email": "mason.taylor@example.com"
+        "email": "mason.taylor@example.com","speciality": "designer",
+        "about": "I specialize in UI/UX design and have experience with Adobe Creative Suite.",
+        "telegram": "@johnson",
+        "instagram": "@johnson",
+        "twitter": "@johnson",
+        "github": "johnson"
     }
 ]
